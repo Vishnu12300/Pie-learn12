@@ -1,0 +1,6 @@
+{
+  "name": "PIE Tech - Personalized Learning Path System",
+  "description": "Personalized learning path recommendation, predictive career readiness platform, and institutional PDF roadmap export for Pollachi Institute of Engineering and Technology students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
